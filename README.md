@@ -45,3 +45,11 @@ This repository contains materials for teachers learning the "School informatics
 - упражнение: имплементиране на алгоритми чрез Python
 
 --------------
+
+Източници:
+
+- [хранилище със структури от данни, написани на Python](https://github.com/bnmnetp/pythonds)
+- [колекция от книги за Python](https://pythonbooks.revolunet.com/) - на английски език
+- онлайн курсове - на английски език:
+  - ["Увод в програмирането с Python"](https://runestone.academy/ns/books/published/fopp/index.html?mode=browsing)
+  - ["Как да мислим като софтуерен инженер"](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing)
